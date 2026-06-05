@@ -2,7 +2,7 @@
 <div align="left">
   <img
     src="https://drive.google.com/uc?export=view&id=1YhXegnF3JsG51RUCGZIL1_6P9fGqCxbW"
-    alt="Runnova Banner"
+    alt="Tiara"
     style="width:100%; max-width:1400px;"
   />
 </div>
