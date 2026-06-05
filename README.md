@@ -1,4 +1,12 @@
-# TIARA — AI-Powered Cognitive Decline Screening & Caregiver Support Platform
+<br>
+<div align="left">
+  <img
+    src="https://drive.google.com/uc?export=view&id=1YhXegnF3JsG51RUCGZIL1_6P9fGqCxbW"
+    alt="Runnova Banner"
+    style="width:100%; max-width:1400px;"
+  />
+</div>
+<br>
 
 > **⚕️ Medical Disclaimer**: TIARA is not a medical diagnosis tool. It is a cognitive trend monitoring and caregiver support platform. All outputs are informational only and should not replace professional clinical assessment.
 
